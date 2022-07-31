@@ -13,6 +13,4 @@ and experience which I want to develop to a
  ------------
  test 8
  
- test 11 new for 31.07.22
- 
- socond part of the test 11
+ test 11 new for 31.07.2
